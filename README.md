@@ -11,3 +11,6 @@ Includes basic validation for Email field.
 - HTML  
 - CSS  
 - JavaScript  
+
+## Screenshots
+![Login Page Screenshot](screenshot.png)
